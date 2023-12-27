@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/sureshnaidu25/maven.git'
+                git 'https://github.com/sureshnaidu25/mymaven.git'
                 
             }
             
